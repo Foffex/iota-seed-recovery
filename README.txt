@@ -30,6 +30,7 @@ The script will simply stop once the loop is done if no seed is found
 If you need any additional help, you can reach me on Discrod under Foffex#5209
 
 ######################################################################################################
+
 Note:
 If the node isn't working, simply open the script in a tex editor and swap out the node address with a desired node
 
