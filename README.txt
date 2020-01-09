@@ -7,7 +7,7 @@ Python (tested on 3.8)
 
 1. Go into the folder where you have the python file (iota_seed_recovery)
 
-2. write cmd in the path (like this)
+2. write cmd in the path (like this - https://imgur.com/a/6dvePqa)
 
 3. in cmd, type: python -m venv Name_Of_VirtEnv
 
