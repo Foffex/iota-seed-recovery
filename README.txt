@@ -27,6 +27,8 @@ Make sure you paste a seed that's either 80, 81, 82 or 83 characters long, and w
 If the script finds the seed, it will pause and display the seed until you take further action
 The script will simply stop once the loop is done if no seed is found
 
+If you need any additional help, you can reach me on Discrod under Foffex#5209
+
 ######################################################################################################
 Note:
 If the node isn't working, simply open the script in a tex editor and swap out the node address with a desired node
@@ -35,4 +37,7 @@ If the node isn't working, simply open the script in a tex editor and swap out t
 
 I would appreciate if you want to buy me a beer:
 YT9UQLVHGZJKPOBFIBUIPDUCQGDEMXTSZVDGL9WOTHSEQYCEXTUDPBKBUNPHVSRWNENPXCHLSWRNGOOXZODFOTGQAD
+
+######################################################################################################
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
