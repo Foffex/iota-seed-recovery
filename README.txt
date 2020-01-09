@@ -26,6 +26,12 @@ Make sure you either post a seed that's either 80, 81, 82 or 83 characters long,
 9. Script will now run until it either finds your seed or nothing
 If the script finds the seed, it will pause and display the seed until you take further action
 
-If you want to buy me a beer:
+######################################################################################################
+Note:
+If the node isn't working, simply open the script in a tex editor and swap out the node address with a desired node
+
+######################################################################################################
+
+I would appreciate if you want to buy me a beer:
 YT9UQLVHGZJKPOBFIBUIPDUCQGDEMXTSZVDGL9WOTHSEQYCEXTUDPBKBUNPHVSRWNENPXCHLSWRNGOOXZODFOTGQAD
 
