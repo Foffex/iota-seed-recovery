@@ -19,12 +19,13 @@ Python (tested on 3.8)
 
 7. Follow instructions (paste seed)
 Please note that you're allowed to paste seeds that's both too long, short, includes characters that doesn't belong in a seed, spaces etc.
-Make sure you either post a seed that's either 80, 81, 82 or 83 characters long, without any spaces either in the beginning nor the end.
+Make sure you paste a seed that's either 80, 81, 82 or 83 characters long, and without any spaces in the beginning nor the end.
 
 8. Choose option (1-4)
 
 9. Script will now run until it either finds your seed or nothing
 If the script finds the seed, it will pause and display the seed until you take further action
+The script will simply stop once the loop is done if no seed is found
 
 ######################################################################################################
 Note:
